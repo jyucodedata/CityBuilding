@@ -9,7 +9,7 @@ The project continues to use the LIAB LM 9310 (provided by the FDZ/IAB, https://
 Consistent with "Learning from Coworkers" (Econometrica, 2021), file globals_definition sets path and globals needed. 
 
 
-# Files 1 and 2 are directly taken from the IAB.
+Files 1 and 2 are directly taken from the IAB.
 
-# Files 3 and 4 are taken directly from replication files from "Learning from Coworkers" (Econometrica, 2021).
+Files 3 and 4 are taken directly from replication files from "Learning from Coworkers" (Econometrica, 2021).
 
