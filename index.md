@@ -1,6 +1,6 @@
 ## Welcome to the "City Building through Matching" Project Site (Johns Hopkins economics)
 
-Hello! Each visit is welcome and much appreciated! This project is divided into an empirical component (builds on structural estimation of learning using matched employer-employee data) and a theoretical component (recovering one side of the housing match via dynamic discrete choice). It probes connections with public choice, and political economy topics. Why is talent housing not prevalent in Western economies? How do local governments allocate talent housing units? What are the economic growth and taxation implications?
+Hello! Each visit is welcome and much appreciated! This project is divided into an empirical component (builds on structural estimation of learning using matched employer-employee data) and a theoretical component (recovering one side of the housing match via dynamic discrete choice). It probes connections with public choice, and political economy topics. Why is talent housing not prevalent in Western economies? How should local governments allocate talent housing units? What are the economic growth and taxation implications?
 
 You can use the [editor on GitHub](https://github.com/jyucodedata/CityBuilding/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
