@@ -14,7 +14,7 @@ adopath ++ prog
 *do "$prog/1_additional_vars.do" 			// IAB code to construct additional variables and sample from dataset
 *do "$prog/2_gen_cr_sect.do" 	   			// IAB code  to turn dataset into monthly panel
 *do "$prog/3_macroind.do" 		   			// Add macroeconomic variables
-do "$prog/3a_industry.do"					// Add industry variables (using BHP dataset)
+do "$prog/3a_industry.do"					// Add district variables (using BHP dataset)
 *do "$prog/4_data_annual.do" 	  			// Turn monthly panel into annual panel
 
 // construction of coworker data and summary stats
